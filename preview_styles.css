@@ -1,0 +1,38 @@
+body
+{
+	/*background: black;*/
+}
+.videoBox
+{
+	position: relative;
+	margin: 0px 10px 0px 0px;
+	display: inline;
+	color: white;
+	width: 300px;
+}
+/*videoName
+{
+	position: absolute;
+	text-align: center;
+
+}*/
+.videoName
+{
+	display: inline;
+	/*display: inline;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	*//*left: 100px;*/
+    /*z-index: 999;*/
+    /*margin: 0 auto;*/
+    /*left: 0;*/
+    /*left: 100px;*/
+    /*color: black;*/
+    position: absolute;
+	left: 10px;
+	top: -10px;
+    /*top: 40%;  Adjust this value to move the positioned div up and down */
+     /*text-align: center;*/
+    /*width: 60%; // Set the width of the positioned div */
+}
