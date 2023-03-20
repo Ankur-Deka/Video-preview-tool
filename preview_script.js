@@ -22,6 +22,7 @@ function add(file, src) {
         vidElement.setAttribute("type", "video/".concat(extension))
         vidElement.setAttribute("autoplay","")
         vidElement.setAttribute("loop","")
+        vidElement.setAttribute("controls", true)
     }  
     vidElement.setAttribute("src", src);
     vidElement.setAttribute("width","300px")
