@@ -30,9 +30,10 @@ body
     /*left: 100px;*/
     /*color: black;*/
     position: absolute;
-	left: 10px;
-	top: -10px;
+    left: 10px;
+    top: 2px;
     /*top: 40%;  Adjust this value to move the positioned div up and down */
      /*text-align: center;*/
     /*width: 60%; // Set the width of the positioned div */
+    font-size: 8px;
 }
